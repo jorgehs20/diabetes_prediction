@@ -13,7 +13,6 @@ This project demonstrates a complete ML workflow for healthcare data, from explo
 - Train baseline models locally using scikit-learn
 - Scale training using Amazon SageMaker Training Jobs
 - Deploy models to SageMaker endpoints for real-time predictions
-- Compare local vs SageMaker training approaches
 
 ## 📊 Dataset Features
 
